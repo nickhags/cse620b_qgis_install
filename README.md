@@ -2,11 +2,11 @@
 
 ### Installation
 
-QGIS was installed on Arch Linux (w/i3wm) via the package manager, pacman.
+QGIS was installed on Arch Linux (w/i3wm) via the package manager, pacman. The command used was simply 'sudo pacman -S qgis'. All optional dependencies were also installed.
 
 ### Data Sources
 
-Raster data was downloaded via [USGS EarthExplorer](https://earthexplorer.usgs.gov/order/index/). Data focuses on the greater-Kalamazoo area of Michigan.
+Raster data was downloaded via [USGS EarthExplorer](https://earthexplorer.usgs.gov/). Data focuses on the greater-Kalamazoo area of Michigan.
 
 Vector data was downloaded via [OverpassTurbo](https://overpass-turbo.eu/#). Data lists features matching the keyword 'route', intending to capture the state routes in greater Kalamazoo.
 
